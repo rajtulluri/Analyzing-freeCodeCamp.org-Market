@@ -6,3 +6,5 @@ The aim of this project is to analyze the open dataset published by freeCodeCamp
   2. Which are the biggest markets for freeCodeCamp.org?
   3. For the biggest markets, what is the share for potential customers?
   4. In what countries should freeCodeCamp advertise in, for their paid online courses?
+  
+The notebook has all the detailed explanations, code and visualizations.
